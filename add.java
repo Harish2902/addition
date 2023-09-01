@@ -5,8 +5,8 @@ class hd{
     {
         
         Scanner s=new Scanner(System.in);
-        int a=s.nextInt();
-        int b=s.nextInt();
+        int a=2;
+        int b=2;
         int c=a+b;
         System.out.println(c);
     }
